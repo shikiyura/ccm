@@ -7,6 +7,9 @@ updates:
       timezone: "Asia/Tokyo"
       time: "10:00"
     target-branch: "develop"
+    allow:
+      - dependency-name: cookie
+        update-types: ["minor", "patch", "major"]
   - package-ecosystem: "cargo"
     directory: "/src-tauri"
     schedule:
