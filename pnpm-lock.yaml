@@ -19,7 +19,7 @@ importers:
         specifier: ^3.0.10
         version: 3.0.10(@sveltejs/kit@2.50.1(@sveltejs/vite-plugin-svelte@5.1.1(svelte@5.49.1)(vite@6.4.1))(svelte@5.49.1)(typescript@5.6.3)(vite@6.4.1))
       '@sveltejs/kit':
-        specifier: ^2.9.0
+        specifier: ^2.50.1
         version: 2.50.1(@sveltejs/vite-plugin-svelte@5.1.1(svelte@5.49.1)(vite@6.4.1))(svelte@5.49.1)(typescript@5.6.3)(vite@6.4.1)
       '@sveltejs/vite-plugin-svelte':
         specifier: ^5.0.0
